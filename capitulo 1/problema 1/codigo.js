@@ -1,5 +1,5 @@
 
-dineroCofla = prompt("cuanto dinero tienes cofla?");
+dineroCofla = prompt("cuanto dinero tienes Cofla?");
 dineroRoberto = prompt("cuanto dinero tienes roberto?");
 dineroPedro = prompt("cuanto dinero tienes pedro?");
 
