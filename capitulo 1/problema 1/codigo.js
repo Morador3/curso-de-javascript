@@ -1,7 +1,7 @@
 
-dineroCofla = prompt("cuanto dinero tienes cofla?");
-dineroRoberto = prompt("cuanto dinero tienes roberto?");
-dineroPedro = prompt("cuanto dinero tienes pedro?");
+dineroCofla = prompt("cuanto dinero tienes Cofla?");
+dineroRoberto = prompt("cuanto dinero tienes Roberto?");
+dineroPedro = prompt("cuanto dinero tienes Pedro?");
 
 dineroCofla = parseInt(dineroCofla);
 
